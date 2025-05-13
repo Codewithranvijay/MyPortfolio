@@ -124,7 +124,7 @@ export default function Hero() {
         <h1 className="mb-4 text-5xl font-bold tracking-tight sm:text-6xl md:text-7xl">
           <span className="block">Ranvijay Singh</span>
           <span className="block bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-            Data Scientist
+            Data Analyst
           </span>
         </h1>
         <p className="mb-8 max-w-md text-lg text-muted-foreground sm:text-xl">
@@ -155,4 +155,3 @@ export default function Hero() {
     </section>
   )
 }
-

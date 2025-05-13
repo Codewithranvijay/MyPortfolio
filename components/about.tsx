@@ -94,7 +94,7 @@ export default function About() {
             <h2 className="mb-4 text-3xl font-bold tracking-tight sm:text-4xl">About Me</h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                Hello! I'm Ranvijay, a passionate Data Scientist with expertise in data analysis, visualization, and
+                Hello! I'm Ranvijay, a passionate Data Analyst with expertise in data analysis, visualization, and
                 machine learning.
               </p>
               <p>
@@ -143,4 +143,3 @@ export default function About() {
     </section>
   )
 }
-

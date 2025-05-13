@@ -60,4 +60,3 @@ Note: If you're using Gmail, you'll need to generate an App Password rather than
 5. Paste this into your `.env.local` file
 
 This enables the contact form to send emails to ranvijay3325778@gmail.com when visitors submit the form.
-
